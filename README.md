@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @99arp
-- 👀 I’m interested in machine learning, robotics and computer vision.
+- 👀 I’m interested in AI and computer vision.
 - 🌱 I’m currently learning Robot Operating System. 
 - 💞️ I’m looking to collaborate on interesting C++ or Python projects. 
 - 📫 Just send me a message . 
